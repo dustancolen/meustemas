@@ -1,229 +1,272 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
+  "order": [
+    "main",
+    "related-products",
+    "faq_NNcmg9"
+  ],
   "sections": {
-    "main": {
-      "type": "main-product",
-      "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": true
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "offer_bDNDQc": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-truck",
-            "icon_width": 24,
-            "title": "Frete express (5-15 dias)",
-            "content": "",
-            "background": "#eaf2ed",
-            "text_color": "#00a341"
-          }
-        },
-        "offer_i9HqGy": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-truck",
-            "icon_width": 24,
-            "title": "90 dias de garantia",
-            "content": "",
-            "background": "#c1daef",
-            "text_color": "#008cff"
-          }
-        },
-        "associated_products_7JEcjR": {
-          "type": "associated_products",
-          "settings": {
-            "title": "Compre com",
-            "stack_products": true,
-            "products_count": 5,
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "badges",
-        "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons",
-        "offer_bDNDQc",
-        "offer_i9HqGy",
-        "associated_products_7JEcjR"
-      ],
-      "settings": {
-        "full_width": true,
-        "show_fixed_add_to_cart": true,
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": false,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [
-
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": true,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Você pode gostar",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "faq_NNcmg9": {
-      "type": "faq",
-      "blocks": {
-        "item_WFrT7F": {
-          "type": "item",
-          "settings": {
-            "title": "Vocês são de onde? entregam para todo Brasil?",
-            "content": "<p>Somos de Recife, entregamos para todo Brasil<\/p>"
-          }
-        },
-        "item_Gw6Mir": {
-          "type": "item",
-          "settings": {
-            "title": "Qual o tempo máximo que pode demorar para minha entrega chegar?",
-            "content": "<p>Depende de onde estás. Os pedidos processados ​​aqui levarão de 7 a 17 dias. Os detalhes da entrega serão fornecidos no seu e-mail de confirmação.<\/p>"
-          }
-        },
-        "item_ACkBJA": {
-          "type": "item",
-          "settings": {
-            "title": "Mais alguma dúvida?",
-            "content": "<p>Clique no botão abaixo e fale conosco pelo <strong>Whatsapp<\/strong><\/p>"
-          }
-        }
-      },
       "block_order": [
         "item_WFrT7F",
         "item_Gw6Mir",
         "item_ACkBJA"
       ],
+      "blocks": {
+        "item_ACkBJA": {
+          "settings": {
+            "content": "<p>Clique no botão abaixo e fale conosco pelo <strong>Whatsapp</strong></p>",
+            "title": "Mais alguma dúvida?"
+          },
+          "type": "item"
+        },
+        "item_Gw6Mir": {
+          "settings": {
+            "content": "<p>Depende de onde estás. Os pedidos processados ​​aqui levarão de 7 a 17 dias. Os detalhes da entrega serão fornecidos no seu e-mail de confirmação.</p>",
+            "title": "Qual o tempo máximo que pode demorar para minha entrega chegar?"
+          },
+          "type": "item"
+        },
+        "item_WFrT7F": {
+          "settings": {
+            "content": "<p>Somos de Recife, entregamos para todo Brasil</p>",
+            "title": "Vocês são de onde? entregam para todo Brasil?"
+          },
+          "type": "item"
+        }
+      },
       "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Perguntas frequentes",
-        "content": "<p>Caso a resposta para sua pergunta não esteja aqui logo abaixo está nosso número e email para contato<\/p>",
-        "team_avatar_width": 160,
-        "support_hours": "entre em contato com nosso suporte por: email : sac@eggss.com.brWhatsApp : (81)98734-2924.",
+        "accordion_background": "",
+        "accordion_text_color": "",
         "answer_time": "Suporte humanizado de segunda  á sabádo das 8h até 20h",
-        "button_text": "Whatsapp",
-        "button_url": "https:\/\/api.whatsapp.com\/send?phone=5581987342924",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "button_background": "#29d045",
+        "button_text": "Whatsapp",
+        "button_text_color": "",
+        "button_url": "https://api.whatsapp.com/send?phone=5581987342924",
+        "content": "<p>Caso a resposta para sua pergunta não esteja aqui logo abaixo está nosso número e email para contato</p>",
+        "full_width": true,
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "#29d045",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
+        "subheading": "",
+        "support_hours": "entre em contato com nosso suporte por: email : sac@eggss.com.brWhatsApp : (81)98734-2924.",
+        "team_avatar_width": 160,
+        "text_color": "",
+        "text_position": "center",
+        "title": "Perguntas frequentes"
+      },
+      "type": "faq"
+    },
+    "main": {
+      "block_order": [
+        "title",
+        "price",
+        "offer_4BfaB6",
+        "badges",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "button_C4canJ",
+        "offer_bDNDQc",
+        "offer_i9HqGy",
+        "associated_products_7JEcjR",
+        "essential_upsell_app_block_zcnjGQ",
+        "aov_bundle_upsell_offer_volume_yajdTP"
+      ],
+      "blocks": {
+        "aov_bundle_upsell_offer_volume_yajdTP": {
+          "settings": {},
+          "type": "shopify://apps/aov-bundle-upsell/blocks/offer-volume/0335d423-143c-4ad7-b224-99a1db74a9ee"
+        },
+        "associated_products_7JEcjR": {
+          "settings": {
+            "background": "",
+            "products_count": 5,
+            "stack_products": true,
+            "text_color": "",
+            "title": "Compre com"
+          },
+          "type": "associated_products"
+        },
+        "badges": {
+          "settings": {},
+          "type": "badges"
+        },
+        "button_C4canJ": {
+          "settings": {
+            "background": "#25d366",
+            "link": "https://wa.me/5581987342924?text=Quero%20comprar%20com%20ajuda",
+            "size": "lg",
+            "stretch": false,
+            "style": "fill",
+            "text": "Comprar com Ajuda no Whatsapp",
+            "text_color": "#ffffff"
+          },
+          "type": "button"
+        },
+        "buy_buttons": {
+          "settings": {
+            "atc_button_background": "#0092ff",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "payment_button_background": "rgba(0,0,0,0)",
+            "payment_button_text_color": "rgba(0,0,0,0)",
+            "show_gift_card_recipient": true,
+            "show_payment_button": false
+          },
+          "type": "buy_buttons"
+        },
+        "description": {
+          "settings": {
+            "collapse_content": true
+          },
+          "type": "description"
+        },
+        "essential_upsell_app_block_zcnjGQ": {
+          "settings": {},
+          "type": "shopify://apps/essential-upsell/blocks/app-block/50627fd9-24fd-4250-8614-accc12826d80"
+        },
+        "offer_4BfaB6": {
+          "settings": {
+            "background": "#d0eaff",
+            "content": "",
+            "icon": "picto-credit-card",
+            "icon_position": "aligned",
+            "icon_width": 24,
+            "text_alignment": "start",
+            "text_color": "#0092ff",
+            "title": "Parcelas em até 3x sem juros"
+          },
+          "type": "offer"
+        },
+        "offer_bDNDQc": {
+          "settings": {
+            "background": "#eaf2ed",
+            "content": "",
+            "icon": "picto-truck",
+            "icon_position": "aligned",
+            "icon_width": 24,
+            "text_alignment": "start",
+            "text_color": "#00a341",
+            "title": "Frete express (5-15 dias)"
+          },
+          "type": "offer"
+        },
+        "offer_i9HqGy": {
+          "settings": {
+            "background": "#c1daef",
+            "content": "",
+            "icon": "picto-truck",
+            "icon_position": "aligned",
+            "icon_width": 24,
+            "text_alignment": "start",
+            "text_color": "#008cff",
+            "title": "90 dias de garantia"
+          },
+          "type": "offer"
+        },
+        "payment_terms": {
+          "settings": {},
+          "type": "payment_terms"
+        },
+        "price": {
+          "settings": {
+            "show_taxes_notice": false
+          },
+          "type": "price"
+        },
+        "quantity_selector": {
+          "settings": {},
+          "type": "quantity_selector"
+        },
+        "rating": {
+          "settings": {
+            "show_empty": false
+          },
+          "type": "rating"
+        },
+        "separator": {
+          "settings": {},
+          "type": "separator"
+        },
+        "title": {
+          "settings": {
+            "heading_tag": "h2"
+          },
+          "type": "title"
+        },
+        "variant_picker": {
+          "settings": {
+            "color_mode": "color",
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "size_chart_page": "",
+            "stack_blocks": true
+          },
+          "type": "variant_picker"
+        }
+      },
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_width": 55,
+        "enable_image_zoom": true,
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "full_width": true,
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": "",
+        "max_image_zoom_level": 3,
+        "mobile_carousel_control": "floating_dots",
+        "mobile_media_size": "expanded",
+        "show_fixed_add_to_cart": true,
+        "text_color": ""
+      },
+      "type": "main-product"
+    },
+    "related-products": {
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "products": [
+          "racao-mix-desidratados",
+          "tenebrios-desidratados-protein-line-copia-1",
+          "tenebrios-desidratados-protein-line",
+          "artemias-desidratadas-protein-line",
+          "bsf-desidratados-protein-line-black-soldiers-fly-copia",
+          "tenebrios-desidratados-protein-line-copia",
+          "gammarus-desidratados-protein-line",
+          "bsf-desidratados-protein-line-black-soldiers-fly"
+        ],
+        "products_per_row_desktop": 3,
+        "products_per_row_mobile": "2",
+        "recommendations_count": 10,
+        "show_progress_bar": true,
+        "stack_products": true,
+        "subheading": "",
+        "text_color": "",
+        "title": "Você pode gostar"
+      },
+      "type": "related-products"
     }
-  },
-  "order": [
-    "main",
-    "related-products",
-    "faq_NNcmg9"
-  ]
+  }
 }

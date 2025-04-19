@@ -96,9 +96,9 @@
 </head>
 
 <body class="template-{{ template | split: '.' | first }}">
+  {%- render 'beae_ab_snippet' -%}
   <div class="Beae-theme">
     {{ content_for_layout }}
   </div>
-  {%- render 'beae_analytic_helper' -%}
 </body>
 </html>
